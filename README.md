@@ -8,4 +8,4 @@
    
   
    #### Result:
-   Initial training accuracy obtained was 73.33%. Improved this accuracy to 80.00% by hyper-parameter tuning and altering the layer structure.  
+   Initial testing accuracy obtained was 73.33%. Improved this accuracy to 80.00% by hyper-parameter tuning and altering the layer structure.  
